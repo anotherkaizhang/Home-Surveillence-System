@@ -1,0 +1,1 @@
+At this point it is important that you have edited the configuration file with your API key and Path. To find your API key, you can create an app on the app creation page. Once you have an app created, the API key may be generated under the OAuth section of the app’s page on the App Console (simply click the “Generate” button and copy/paste the key into the configuration file).
